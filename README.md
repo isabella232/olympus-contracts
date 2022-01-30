@@ -3,7 +3,6 @@
 This is the main Olympus smart contract development repository.
 
 ## 🔧 Setting up local development
----
 
 ### Requirements
 
@@ -53,7 +52,6 @@ make run
 ```
 
 ## 📜 Contract Addresses
----
 
  - For [Ethereum Mainnet](./docs/deployments/ethereum).
  - For [Rinkeby Testnet](./docs/deployments/rinkeby).
@@ -67,9 +65,10 @@ make run
     in tests.
 
 ## 📖 Guides
----
+
 ### Contracts
 - [Allocator version 1 guide (1.0.0)](./docs/guides/allocator_v1_guide.md).
+- [System Architecture (image)](./docs/guides/system_architecture.md)
 ### Testing
 - [Hardhat testing guide](./docs/guides/hardhat_testing.md)
 - [Dapptools testing guide](./docs/guides/dapptools.md)
